@@ -1,4 +1,5 @@
 import os
+os.system("clear")
 self = "goodies.py"
 def cat_time():
     """
